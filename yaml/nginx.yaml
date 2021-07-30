@@ -35,7 +35,7 @@ spec:
     spec:
       containers:
       - name: nginx-test
-        image: woshili213/nginx-test:1.0.0
+        image: woshili213/nginx-test:1.1.0
         ports:
         - containerPort: 80
         volumeMounts:
